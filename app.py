@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 
 # Configure the web page layout, title, and favicon
 st.set_page_config(
