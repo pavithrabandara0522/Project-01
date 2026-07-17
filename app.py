@@ -1,4 +1,4 @@
-[7/17/2026 9:51 PM] Pavithra Bandara: import streamlit as st
+ import streamlit as st
 
 # Configure the web page layout, title, and favicon
 st.set_page_config(
